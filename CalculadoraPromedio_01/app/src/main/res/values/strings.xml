@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraPromedio_01</string>
+    <string name="hint_inputName">Ingrese su Nombre</string>
+    <string name="hint_inputNota01">Nota 1 (15%)</string>
+    <string name="hint_inputNota02">Nota 2 (15%)</string>
+    <string name="hint_inputNota03">Nota 3 (20%)</string>
+    <string name="hint_inputNota04">Nota 4 (25%)</string>
+    <string name="hint_inputNota05">Nota 5 (25%)</string>
+    <string name="btnCalcular">Calcular</string>
+</resources>

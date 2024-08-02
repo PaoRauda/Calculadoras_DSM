@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraSalario_02</string>
+    <string name="hint_inputName">Su nombre aqui</string>
+    <string name="hint_inputSalario">Su salario base aquí</string>
+    <string name="tableLabel_1">Empleado</string>
+    <string name="tableLabel_2">Renta</string>
+    <string name="tableLabel_3">AFP</string>
+    <string name="tableLabel_4">ISSS</string>
+    <string name="tableLabel_5">Salario Neto</string>
+    <string name="button">Calcular</string>
+</resources>
